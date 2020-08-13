@@ -18,22 +18,17 @@ def parse_definition(url,idOFGlossary):
     digit = 1
     reference = soup.find_all( class_='button--bellow-body-content')[digit].find_all('div')[0].find_all('p')
     glossary =[[t.replace('\xa0', '') for t in i.text.splitlines()] for i in reference]
-   
-
+    
     def filterWaste(l):
         for item in l:
             if (len(item)<=1):
                 return False
         return True
     glossary=list(filter(filterWaste,glossary))
-    # reference = reference.find(attrs={"role" : "tabpanel"})
-    # reference=reference.find('div').find('div')
+    glossary = [{xe[0]:xe[1]} for xe in glossary]
 
-    # glossary = reference.find_all('p')
-    # for define in glossary:
-    #     key = define.find('b').get_text().strip()
-    #     definitions[key]= define.find('br').next_siblings
-    # return definitions
+    with open('definitions.json', 'w') as fp:
+        json.dump(glossary, fp, sort_keys=True, indent=4)
     return glossary
 
 
