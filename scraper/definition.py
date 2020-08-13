@@ -18,8 +18,7 @@ def parse_definition(url,term):
     digit = 2
     reference = soup.find_all( class_='button--bellow-body-content')[digit].find_all('div')[0].find_all('p')
     glossary =[[t.replace('\xa0', '') for t in i.text.splitlines()] for i in reference]
-   
-
+    
     def filterWaste(l):
         for item in l:
             if (len(item)<=1):
@@ -37,8 +36,13 @@ def parse_definition(url,term):
     #     key = define.find('b').get_text().strip()
     #     definitions[key]= define.find('br').next_siblings
     # return definitions
-    return out
+    
+    glossary = [{xe[0]:{"defi":xe[1], "mention":{"link":base_url,"term":term}}} for xe in glossary]
 
+    with open('definitions.json', 'w') as fp:
+        json.dump(glossary, fp, sort_keys=True, indent=4)
+    # return glossary
+    return out
 
 
 print(parse_definition(base_url,term))
