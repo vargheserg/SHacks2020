@@ -25,9 +25,9 @@ def parse_definition(url,term):
                 return False
         return True
     glossary=list(filter(filterWaste,glossary))
-    out = {}
-    for [term,defi] in glossary:
-        out[term]={"defi":defi, "mention":{"link":base_url,"term":term}}
+    # out = {}
+    # for [term,defi] in glossary:
+    #     out[term]={"defi":defi, "mention":{"link":base_url,"term":term}}
     # reference = reference.find(attrs={"role" : "tabpanel"})
     # reference=reference.find('div').find('div')
 
@@ -42,7 +42,7 @@ def parse_definition(url,term):
     with open('definitions.json', 'w') as fp:
         json.dump(glossary, fp, sort_keys=True, indent=4)
     # return glossary
-    return out
+    return glossary
 
 
 print(parse_definition(base_url,term))
