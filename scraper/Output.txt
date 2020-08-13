@@ -1,0 +1,2 @@
+Accrued Interest 
+Interest due from issue date or from the last coupon date to the security settlement date. Interest that has accumulated on a bond since its most recent regular interest payment date. The buyer of the security pays the accrued interest to the seller and recoups a full payment on the next payment date.
