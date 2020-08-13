@@ -1,0 +1,227 @@
+[
+    {
+        "American-style option": {
+            "defi": "An option contract that can be exercised at any time between the date of purchase and the expiration date. Most exchange-traded options are American style.",
+            "mention": {
+                "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/options.html",
+                "term": "Underlying security"
+            }
+        }
+    },
+    {
+        "Assignment": {
+            "defi": "The receipt of an exercise notice by an options writer that requires him to sell (in the case of a call) or purchase (in the case of a put) the underlying security at the specified strike price.",
+            "mention": {
+                "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/options.html",
+                "term": "Underlying security"
+            }
+        }
+    },
+    {
+        "At the money": {
+            "defi": "An option is at-the-money if the strike price of the option is equal to the market price of the underlying security. For example, if xyz stock is trading at 54, then the xyz 54 option is at-the-money.",
+            "mention": {
+                "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/options.html",
+                "term": "Underlying security"
+            }
+        }
+    },
+    {
+        "Call option": {
+            "defi": "An option contract that gives the holder of the option the right (but not the obligation) to purchase, and obligates the writer to sell, a specified number of shares of the underlying stock at the given strike price, on or before the expiration date of the contract.",
+            "mention": {
+                "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/options.html",
+                "term": "Underlying security"
+            }
+        }
+    },
+    {
+        "Closing purchase": {
+            "defi": "A transaction in which the purchaser's intention is to reduce or eliminate a short position in a stock, or in a given series of options.",
+            "mention": {
+                "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/options.html",
+                "term": "Underlying security"
+            }
+        }
+    },
+    {
+        "Closing sale": {
+            "defi": "A transaction in which the seller's intention is to reduce or eliminate his long position in a stock, or a given series of options.",
+            "mention": {
+                "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/options.html",
+                "term": "Underlying security"
+            }
+        }
+    },
+    {
+        "Covered call": {
+            "defi": "A short call option position in which the writer owns the number of shares of the underlying stock represented by the option contracts. Covered calls generally limit the risk the writer takes because the stock does not have to be bought at the market price, if the holder of that option decides to exercise it.",
+            "mention": {
+                "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/options.html",
+                "term": "Underlying security"
+            }
+        }
+    },
+    {
+        "Covered put": {
+            "defi": "A put option position in which the option writer also is short the corresponding stock or has deposited, in a cash account, cash or cash equivalents equal to the exercise price of the option. This limits the option writer's risk because money or stock is already set aside. In the event that the holder of the put option decides to exercise the option, the writer's risk is more limited than it would be on an uncovered or naked put option.",
+            "mention": {
+                "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/options.html",
+                "term": "Underlying security"
+            }
+        }
+    },
+    {
+        "Equity Options": {
+            "defi": "Securities that give the holder the right to buy or sell a specified number of shares of stock, at a specified price for a certain (limited) time period. Typically one option equals 100 shares of stock.",
+            "mention": {
+                "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/options.html",
+                "term": "Underlying security"
+            }
+        }
+    },
+    {
+        "European-style option": {
+            "defi": "An option contract that can only be exercised on the expiration date.",
+            "mention": {
+                "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/options.html",
+                "term": "Underlying security"
+            }
+        }
+    },
+    {
+        "Exercise": {
+            "defi": "To implement the right of the holder of an option to buy (in the case of a call) or sell (in the case of a put) the underlying security.",
+            "mention": {
+                "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/options.html",
+                "term": "Underlying security"
+            }
+        }
+    },
+    {
+        "Expiration cycle": {
+            "defi": "An expiration cycle relates to the dates on which options on a particular security expire. As an example, a given option may be placed in 1 of 3 cycles; the January cycle, the February cycle, or the March cycle. At any point in time, an option may have contracts with 4 expiration dates outstanding, 2 in near-term months and 2 in far-term months.",
+            "mention": {
+                "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/options.html",
+                "term": "Underlying security"
+            }
+        }
+    },
+    {
+        "Expiration date": {
+            "defi": "The last day (in the case of American-style) or the only day (in the case of European- style) on which an option may be exercised. For stock options, this date is the Saturday immediately following the 3d Friday of the expiration month; however, brokerage firms may set an earlier deadline for notification of an option holder's intention to exercise. If Friday is a holiday, the last trading day will be the preceding Thursday.",
+            "mention": {
+                "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/options.html",
+                "term": "Underlying security"
+            }
+        }
+    },
+    {
+        "In-the-money": {
+            "defi": "A \"call\" option is in-the-money if the strike price is less than the market price of the underlying security. A \"put\" option is in-the-money if the strike price is greater than the market price of the underlying security. For example, an xyz \"call\" option with a 52 strike price is in-the-money when xyz trades at 52.01 or higher. An xyz \"put\" option with a 52 strike price is in-the-money when xyz is trading at 51.99 or lower.",
+            "mention": {
+                "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/options.html",
+                "term": "Underlying security"
+            }
+        }
+    },
+    {
+        "Margin requirement (options)": {
+            "defi": "The amount of cash an uncovered (naked) option writer is required to deposit and maintain to cover his daily position valuation and reasonably foreseeable intra- day price changes.",
+            "mention": {
+                "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/options.html",
+                "term": "Underlying security"
+            }
+        }
+    },
+    {
+        "Opening purchase": {
+            "defi": "A transaction in which the purchaser's intention is to create or increase a long position in a given series of options.",
+            "mention": {
+                "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/options.html",
+                "term": "Underlying security"
+            }
+        }
+    },
+    {
+        "Opening sale": {
+            "defi": "A transaction in which the seller's intention is to create or increase a short position in a given series of options.",
+            "mention": {
+                "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/options.html",
+                "term": "Underlying security"
+            }
+        }
+    },
+    {
+        "Option": {
+            "defi": "Gives the buyer the right, but not the obligation, to buy or sell stock at a set price on or before a given date. Investors, not companies, issue options. Investors who purchase call options expect the stock will be worth more than the price set by the option (the strike price), plus the price they paid for the option itself. Buyers of put options expect the stock's price will go down below the price set by the option.",
+            "mention": {
+                "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/options.html",
+                "term": "Underlying security"
+            }
+        }
+    },
+    {
+        "Out of the money": {
+            "defi": "A call option is out-of-the-money if the strike price is greater than the market price of the underlying security. A put option is out-of-the-money if the strike price is less than the market price of the underlying security.",
+            "mention": {
+                "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/options.html",
+                "term": "Underlying security"
+            }
+        }
+    },
+    {
+        "Premium": {
+            "defi": "The price of an option contract, determined on the exchange, which the buyer of the option pays to the option writer for the rights to the option contract.",
+            "mention": {
+                "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/options.html",
+                "term": "Underlying security"
+            }
+        }
+    },
+    {
+        "Put option": {
+            "defi": "An option contract that gives the holder the right to sell (or \"put\"), and places upon the writer the obligation to purchase, a specified number of shares of the underlying stock at the given strike price on or before the expiration date of the contract.",
+            "mention": {
+                "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/options.html",
+                "term": "Underlying security"
+            }
+        }
+    },
+    {
+        "Strike price": {
+            "defi": "The stated price per share for which underlying stock may be purchased (in the case of a call) or sold (in the case of a put) by the option holder upon exercise of the option contract.",
+            "mention": {
+                "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/options.html",
+                "term": "Underlying security"
+            }
+        }
+    },
+    {
+        "Uncovered call": {
+            "defi": "A short call option position in which the writer does not own shares of underlying stock represented by his option contracts. Also called a \"naked\" call, it is much riskier for the writer than a covered call, where the writer owns the underlying stock. If the buyer of a call exercises the option to call, the writer would be forced to buy the stock at market price.",
+            "mention": {
+                "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/options.html",
+                "term": "Underlying security"
+            }
+        }
+    },
+    {
+        "Uncovered put": {
+            "defi": "A short put option position in which the writer does not have a corresponding short stock position or has not deposited, in a cash account, cash or cash equivalents equal to the exercise value of the put. Also called \"naked\" puts, the writer has pledged to buy the stock at a certain price if the buyer of the options chooses to exercise it. The risk is limited to the value of the stock that the writer must purchase in the event that the option is exercised.",
+            "mention": {
+                "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/options.html",
+                "term": "Underlying security"
+            }
+        }
+    },
+    {
+        "Underlying security": {
+            "defi": "Options: the security subject to being purchased or sold upon exercise of an option contract. For example, IBM stock is the underlying security to IBM options. Depositary receipts: The class, series and number of the foreign shares represented by the depository receipt.",
+            "mention": {
+                "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/options.html",
+                "term": "Underlying security"
+            }
+        }
+    }
+]
