@@ -1,6 +1,6 @@
 # Varghese George 2020
 from wit import Wit
-from nlp import secret
+# from nlp import secret
 
 # Insert your Wit.AI token here
 # client = Wit(secret.key)
