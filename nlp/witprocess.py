@@ -1,5 +1,6 @@
 # Varghese George 2020
 from wit import Wit
+import os
 # from nlp import secret
 
 # Insert your Wit.AI token here
