@@ -17,6 +17,9 @@ def home():
 def process():
     input = request.args.get('input')
     response = witprocess.recievemessage(input)
+    response['definition'] = definitions[response['word']]['defi']
+    response['link'] = definitions[response['word']]['mention']['term']
+    response['reference'] = definitions[response['word']]['mention']['link']
     return jsonify(response)
 
 if __name__ == "__main__":
