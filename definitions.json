@@ -1,0 +1,807 @@
+{
+    "Accrued Interest": {
+        "defi": "Interest due from issue date or from the last coupon date to the security settlement date. Interest that has accumulated on a bond since its most recent regular interest payment date. The buyer of the security pays the accrued interest to the seller and recoups a full payment on the next payment date.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "American depositary receipts": {
+        "defi": "Certificates issued by a US Depositary Bank, representing foreign shares held by the bank, usually by a branch or correspondent in the country of issue. One ADR may represent a portion of a foreign share, one share or a bundle of shares of a foreign corporation. If the ADR's are \"sponsored\" the corporation provides financial information and other assistance to the bank and may subsidize the administration of the ADR's. \"Unsponsored\" ADR's do not receive such assistance. ADR's carry the same currency, political and economic risks as the underlying foreign share; the prices of the two, adjusted for various factors, are kept essentially identical by arbitrage. American Depositary Shares (ADS) are a similar form of certification.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/stocks.html",
+            "term": "Stocks"
+        }
+    },
+    "Amortization": {
+        "defi": "The process where, as time passes, your fixed income investment moves inexorably to its face value or maturing value.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Analyst": {
+        "defi": "Employee of a brokerage or fund management house who studies companies and makes buy and sell recommendations on their stocks. Most specialize in a specific industry.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/stocks.html",
+            "term": "Stocks"
+        }
+    },
+    "Annual Report": {
+        "defi": "Yearly record of a publicly held company's financial condition. It includes a description of the firm's operations, its balance sheet and income statement. Regulators require that it be distributed to all shareholders. In the US, a more detailed version is called a 10-K.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/stocks.html",
+            "term": "Stocks"
+        }
+    },
+    "Arbitrage": {
+        "defi": "Profiting from differences in the price of a single security that is traded on more than one market.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/stocks.html",
+            "term": "Stocks"
+        }
+    },
+    "Balloon": {
+        "defi": "The maturing principal of a bond issue.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Bank rate": {
+        "defi": "The Canadian equivalent of the discount rate. This is the minimum rate of interest that the Bank of Canada charges on one-day loans to financial institutions. In December 2000, the Bank began setting the level of the Bank Rate \u2013 and with it, the target for the overnight rate \u2013 on eight fixed dates per year.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Basis point": {
+        "defi": "1/100 of a percentage point. It is often used to explain changes in bond yields. A 12 basis points increase in yield would mean a yield increase of 0.12 percentage points (e.g. 6.24 percent to 6.36 per cent is an increase of 12 basis points).",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Bear": {
+        "defi": "An investor who believes a stock or the overall market will decline. A bear market is a prolonged period of falling stock prices, usually by 20% or more.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/stocks.html",
+            "term": "Stocks"
+        }
+    },
+    "Benchmark": {
+        "defi": "This refers to bonds by which others are valued. The Bank of Canada issues bonds at strategic maturity points (typically two, three, five, 10 and 30 years). When issuers bring new bonds to market, the presence of the Bank of Canada issues makes pricing easier since accurate market yields are readily available as references or benchmarks.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Beta (Stocks)": {
+        "defi": "Measure of a stock's risk in relation to the market. 0.7 means a stock price is likely to move up or down 70 % of the market change; 1.3 means the stock is likely to move up or down 30 % more than the market.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/stocks.html",
+            "term": "Stocks"
+        }
+    },
+    "Bid Price": {
+        "defi": "The highest price a prospective buyer or dealer is willing to pay.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/stocks.html",
+            "term": "Stocks"
+        }
+    },
+    "Bid price": {
+        "defi": "The highest price a prospective buyer or dealer is willing to pay.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Bid size": {
+        "defi": "The quantity (face value) of a security the highest bidding buyer wants to purchase.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Bid yield": {
+        "defi": "The yield at which the highest bidding buyer is willing to purchase a security.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Bond": {
+        "defi": "Evidence of a debt that is owed by a borrower who has agreed to pay a specific rate of interest, usually for a defined time period. At the end of that period the debt is repaid. Legally, a bond has assets pledged against the loan. In practice, the word is applied to any kind of term debt, collateralized or not.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Bull": {
+        "defi": "An investor who thinks the market will rise.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/stocks.html",
+            "term": "Stocks"
+        }
+    },
+    "Bulletin Board Stocks": {
+        "defi": "Certain stocks not specifically authorized to trade within NASDAQ that were originally printed by the National Quotation Bureau in a daily publication called the pink sheets. Prices given for these stocks may not accurately reflect the most current market conditions for the stock.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/stocks.html",
+            "term": "Stocks"
+        }
+    },
+    "Buy order": {
+        "defi": "An order to purchase a security.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Buyout": {
+        "defi": "Purchase of a controlling interest (or percent of shares) of a company's stock. A leveraged buyout is done with borrowed money.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/stocks.html",
+            "term": "Stocks"
+        }
+    },
+    "CUSIP number": {
+        "defi": "The Committee on Uniform Security Identification Procedures was established under the auspices of the American Bankers Association to develop a uniform method of identifying municipal, government and corporate securities.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/stocks.html",
+            "term": "Stocks"
+        }
+    },
+    "Call price": {
+        "defi": "The price at which a callable bond can be bought back by the issuer.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Callable": {
+        "defi": "A bond that can be redeemed by the issuer, prior to its maturity date. Certain conditions have to be met.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Capital Gains": {
+        "defi": "If your company's stock price increases, you will be presented with the opportunity for a \"capital gain\" which is the profit between what you originally paid for the stock and the higher price you sell it for.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/stocks.html",
+            "term": "Stocks"
+        }
+    },
+    "Cash Dividends": {
+        "defi": "Cash dividends represent the stockholders' share of the company profits. Companies are not legally bound to pay dividends and many companies do not for various reasons. However, if a company does pay out dividends, they are usually paid out once each quarter. Dividends are frequently discussed in terms of \"payout ratio\" and \"yield.\"",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/stocks.html",
+            "term": "Stocks"
+        }
+    },
+    "Certificate of deposit": {
+        "defi": "A fixed income security issued by a chartered bank. Minimum purchase amount is usually $1000 with terms of from one to seven years.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Commercial paper": {
+        "defi": "Short-term debt instruments issued by non-financial corporations. They have maximum maturities of one year.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Confirmation": {
+        "defi": "The written statement that follows any \"trade\" in the securities markets. A confirmation is issued immediately after a trade is executed. It spells out settlement date, terms, commission, etc.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/stocks.html",
+            "term": "Stocks"
+        }
+    },
+    "Convertible bond": {
+        "defi": "A bond containing a provision that permits conversion to the issuer's common stock at some fixed exchange ratio.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Day order": {
+        "defi": "An order to buy or sell stock that automatically expires if it can't be executed on the day it is entered.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/stocks.html",
+            "term": "Stocks"
+        }
+    },
+    "Dealer": {
+        "defi": "A dealer, as opposed to a broker, acts as a principal in all transactions, buying and selling for his own account.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Debenture": {
+        "defi": "A debt that is secured solely by the general creditworthiness of the issuer and not by the collateralization or lien against specific assets.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Description": {
+        "defi": "Short-form notation used to distinguish a particular issue. Typically follows the following protocol Issuer_Coupon_Maturity (i.e. CAN 8.75 12/05).",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Detailed information": {
+        "defi": "Information data set. Contains the CUSIP number, Description, Bid Price, Ask Price, Bid Yield, Ask Yield, Bid Size, Ask Size, Coupon, Maturity and Credit Ratings (CBRS, Moody's and S&P).",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Discount": {
+        "defi": "The amount by which a bond sells below its par (or maturity) value.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Discount securities": {
+        "defi": "Non-interest bearing money market instruments that are issued at a discount and redeemed at maturity for full face value; e.g. Treasury bills.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Dividend": {
+        "defi": "Distribution of a portion of a company's earnings, cash flow or capital to shareholders, in cash or additional stock.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/stocks.html",
+            "term": "Stocks"
+        }
+    },
+    "Dividend yield": {
+        "defi": "Is calculated by dividing the annual dividend payment by the per share price you paid for the stock. Thus, if you paid $10 per share and received $0.20 in dividends, your dividend yield would be 2 percent.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/stocks.html",
+            "term": "Stocks"
+        }
+    },
+    "Downward yield curve": {
+        "defi": "This refers to an abnormal yield curve where the shorter the term to maturity, the higher the yield. It occurs typically when a central bank is determined to snuff out an inflationary cycle.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Duration": {
+        "defi": "The average life of your fixed income investment. A ten-year bond is not exactly a ten-year bond. All the interest payments shorten the average term. The bigger the interest payments, the shorter the duration. For a zero coupon bond, maturity and duration are the same since there are no cash flows to worry about. This term is used in measuring risk.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Ex-dividend date": {
+        "defi": "The first day of trading when the seller, rather than the buyer, of a stock will be entitled to the most recently announced dividend. A stock that has gone ex-dividend is marked with an x in media listings on that date. \u201cNewspaper outdated reference.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/stocks.html",
+            "term": "Stocks"
+        }
+    },
+    "Exchange": {
+        "defi": "The marketplace in which shares, options and futures on stocks, bonds, commodities and indices are traded. Principal Canadian stock exchanges are: Toronto Stock Exchange (TSX), and the TSX Venture Exchange (TSXV). Principal US stock exchanges are: New York Stock Exchange (NYSE) and the National Association of Securities Dealers (NASDAQ).",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/stocks.html",
+            "term": "Stocks"
+        }
+    },
+    "Extendible bond": {
+        "defi": "An issue with a stated maturity date that under specific conditions gives the holder the right to extend the maturity for a further period.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Face value": {
+        "defi": "Underlying principal amount of a security. The value of a bond that appears on the face of the certificate. It is almost always the maturity value of the bond. It is not an indication of current market value.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Flat yield curve": {
+        "defi": "This refers to a yield curve where yields are the same at all maturities. 'Flat' can also mean that a bond is trading with no accrued interest, either because the settlement date coincides with the coupon payment date or else the issuer is not able to make interest payments.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Good 'til cancelled": {
+        "defi": "Sometimes simply called \"GTC\", this refers to an order to buy or sell stock that is good until you cancel it. Brokerages usually set a limit of 30-60 days, at which time the GTC expires if not re-entered.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/stocks.html",
+            "term": "Stocks"
+        }
+    },
+    "Humped yield curve": {
+        "defi": "This refers to a yield curve where some anomaly pushes yields at one or more maturity dates out of line with surrounding maturities.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Income bond": {
+        "defi": "A bond that pays interest only when earned by the issuer.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Initial public offering (IPO)": {
+        "defi": "A company's first sale of stock to the public. Securities offered in an IPO are often, but not always, those of young, small companies seeking outside equity capital and a public market for their stock.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/stocks.html",
+            "term": "Stocks"
+        }
+    },
+    "Inventory": {
+        "defi": "To facilitate the retail and institutional clients, investment dealers maintain inventory of 'shelf products' financed with their own capital and which are offered at competitive prices.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Issuer": {
+        "defi": "The entity (government or corporation) that borrowed the capital and is responsible for repaying the bondholder.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Jobbers": {
+        "defi": "Approved money market dealers who must bid for each week's treasury bill auction.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Limit order": {
+        "defi": "An order to buy a stock at or below a specified price or to sell a stock at or above a specified price. For instance, you could tell a broker \"Buy me 100 shares of xyz Corp at $8 or less\" or to \"sell 100 shares of xyz at $10 or better.\"",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/stocks.html",
+            "term": "Stocks"
+        }
+    },
+    "Limited liability": {
+        "defi": "If you hold common shares you cannot be held personally liable for the debts or for the actions of a company in which you invest, and generally cannot lose more than the amount of your investment even if the company goes bankrupt.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/stocks.html",
+            "term": "Stocks"
+        }
+    },
+    "Liquidity": {
+        "defi": "The degree to which a security can be bought or sold, without affecting the market price. Something which trades frequently and with high volume is more liquid than something which trades infrequently or with little volume.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/stocks.html",
+            "term": "Stocks"
+        }
+    },
+    "Long term bond": {
+        "defi": "One that matures in more than 10 years.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Make a market": {
+        "defi": "A dealer is said to make a market when he quotes bid and offered prices at which he stands ready to buy and sell.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Market capitalization": {
+        "defi": "The total dollar value of all outstanding shares. Computed as shares multiplied by current market price. It is a measure of corporate size.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/stocks.html",
+            "term": "Stocks"
+        }
+    },
+    "Market order": {
+        "defi": "An order to buy or sell a stock at the price which is current when the order is executed.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/stocks.html",
+            "term": "Stocks"
+        }
+    },
+    "Maturity date": {
+        "defi": "The date on which the security matures is the day that the issuer must repay the amount borrowed plus interest to the holder of the note.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Medium term bond": {
+        "defi": "One that matures in from 3 to 10 years.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Money market": {
+        "defi": "A wholesale, financial market specializing in low risk, highly liquid debt instruments (bills, commercial paper, bankers' acceptances and corporate paper) with terms to maturity of less than 1 year.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Moody's rating": {
+        "defi": "Method of credit analysis. A guide of relative bond value.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Municipals": {
+        "defi": "Securities issued by local governments and their agencies.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Municipals (MUNI) notes": {
+        "defi": "Short term notes issued by municipalities in anticipation of tax receipts, proceeds from a bond issue, or other revenues.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "OTC bulletin board": {
+        "defi": "An electronic quotation system for unlisted, non-Nasdaq, over-the-counter securities",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/stocks.html",
+            "term": "Stocks"
+        }
+    },
+    "Off the run": {
+        "defi": "This refers to a bond issue that is not a 'benchmark issue'. It may have a very high or low coupon, it may be a small illiquid issue, its ownership may be concentrated in few hands or it may have a feature, which makes it unattractive to trade. The bid-ask spread will be wider for such an issue, because dealers either do not wish to hold them in inventory or if they do, find it difficult to sell them quickly.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Offer price": {
+        "defi": "The price at which a dealer will sell the securities.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Offer size": {
+        "defi": "The quantity (face value) of a security that is offered for sale.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Offer yield": {
+        "defi": "The yield at which a security is offered for sale.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Order": {
+        "defi": "An order is an expression of interest to either buy or sell an instrument.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Over the counter": {
+        "defi": "This essentially means 'not centralized'. Unlike the equity market, which has a recognizable physical location to trade stocks, the bond market is decentralized, without one meeting place; transactions occur verbally or electronically between markets.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Over-the-counter (OTC)": {
+        "defi": "A security which is not traded on an exchange, usually due to an inability to meet listing requirements, is said to trade Over-The-Counter. For such securities, broker/dealers negotiate directly with one another over computer networks and by phone, and in the US the NASD monitors their activities. See alsoOTC Bulletin Board,Pink SheetsandBulletin Board Stocks.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/stocks.html",
+            "term": "Stocks"
+        }
+    },
+    "PAR value": {
+        "defi": "The stated face value of a bond. It has no connection with the same expression that sometimes relates to common stocks. Also referred to as Face Value or Par.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Payment Date": {
+        "defi": "Date on which a declared stock dividend or a bond interest payment is scheduled to be made.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/stocks.html",
+            "term": "Stocks"
+        }
+    },
+    "Payout Ratio": {
+        "defi": "Is calculated by dividing the annual dividend payment by the annual earnings per share. For example, if ABC Company had earnings per share of $1.00 and paid out $0.05 per quarter or $0.20 annually in dividends, its payout ratio would be 20 percent.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/stocks.html",
+            "term": "Stocks"
+        }
+    },
+    "Pink sheets": {
+        "defi": "A daily listing of bid and ask prices for over-the-counter stocks not included in the daily NASDAQ over-the-counter listings, published by the National Quotation Bureau and used by brokerages.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/stocks.html",
+            "term": "Stocks"
+        }
+    },
+    "Positive yield curve": {
+        "defi": "This refers to a 'normal' yield curve, one in which the longer the term to maturity, the higher the yield.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Price": {
+        "defi": "The dollar amount one or more parties are willing to pay/receive to purchase/sell a security. Price is typically expressed per $100 of Par Value.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Principal": {
+        "defi": "What you lend. This value is expected to be returned to you at the bond's maturity date.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Prospectus": {
+        "defi": "Formal written document to sell securities that describes the plan for a proposed business enterprise, or the facts concerning an existing one, that an investor needs to make an informed decision. Prospectuses are used by Mutual Funds to describe the fund objectives, risks and other essential information.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/stocks.html",
+            "term": "Stocks"
+        }
+    },
+    "Provincials": {
+        "defi": "Securities issued by provincial governments and their agencies.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Proxy": {
+        "defi": "Document intended to provide shareholders with information necessary to vote in an informed manner on matters to be brought up at a stockholders' meeting. Includes information on closely held shares. Shareholders can and often do give management their proxy, representing the right and responsibility to vote their shares as specified in the proxy statement.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/stocks.html",
+            "term": "Stocks"
+        }
+    },
+    "Quote": {
+        "defi": "An indication of interest to either buy or sell.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Record date": {
+        "defi": "Date by which a shareholder must officially own shares in order to be paid a dividend or other distribution. For example, a firm might declare a dividend on Nov 1, payable Dec 1 to holders of record Nov 15. Once a trade is executed an investor becomes the \"owner of record\" on settlement date, which currently occurs 3 business days after the trade date for securities.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/stocks.html",
+            "term": "Stocks"
+        }
+    },
+    "Redeemable": {
+        "defi": "This is similar to callable bonds but with one huge difference. Normally issued by corporations, a redeemable bond may be 'called' by the issuer but not for financial advantage; in other words, the issue may not be redone at a lower coupon rate. Rather, should a company have surplus cash or in the event of a corporate development the bond issue may be retired prematurely.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Reinvestment risk": {
+        "defi": "There are two basic risks. The first is that the yield to maturity quoted on a bond may not be realized, since all interest payments never get reinvested at the same rate. Second, you will experience this risk if you have your entire portfolio maturing at the same time, and rates have fallen dramatically.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Residuals": {
+        "defi": "The principal portion left over after all the interest payments have been stripped away.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Retractable": {
+        "defi": "An issue that gives the holder the option, under certain circumstances, to redeem his holdings at their face value, prior to the final maturity date.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Reverse stock split": {
+        "defi": "A proportionate decrease in the number of shares, but not the value of shares of stock held by shareholders. Shareholders maintain the same percentage of equity as before the split. For example, a 1-for-3 split would result in stockholders owning 1 share for every 3 shares owned before the split. A firm generally institutes a reverse split to boost its stock's market price and attract investors.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/stocks.html",
+            "term": "Stocks"
+        }
+    },
+    "Rights offering": {
+        "defi": "Issuance of \"rights\" to current shareholders allowing them to purchase additional shares, usually at a discount to market price. Shareholders who do not exercise these rights are usually diluted by the offering. Rights are often transferable, allowing the holder to sell them on the open market to others who may wish to exercise them. Rights offerings are particularly common to closed end funds, which cannot otherwise issue additional common stock.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/stocks.html",
+            "term": "Stocks"
+        }
+    },
+    "SEC": {
+        "defi": "The Securities and Exchange Commission, the US primary federal regulatory agency of the securities industry.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/stocks.html",
+            "term": "Stocks"
+        }
+    },
+    "Sell order": {
+        "defi": "An order to sell a security.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Settlement date": {
+        "defi": "The month, day, and year the transaction will settle. As per industry standards, settlement occurs 3 days after the transaction date (\"T+2\") for Equities.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/stocks.html",
+            "term": "Stocks"
+        }
+    },
+    "Share repurchase": {
+        "defi": "Program by which a corporation buys back its own shares in the open market. It is usually done when the company thinks its shares are undervalued. Since it reduces the number of shares outstanding and thus increases earnings per share, it tends to elevate the market value of the remaining shares held by stockholders.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/stocks.html",
+            "term": "Stocks"
+        }
+    },
+    "Short sale": {
+        "defi": "Selling a security that the seller does not own but is committed to repurchasing eventually. It is used to capitalize on an expected decline in the security's price.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/stocks.html",
+            "term": "Stocks"
+        }
+    },
+    "Sinking fund": {
+        "defi": "Indentures governing corporate issues often require that the issuer make annual payments to a sinking fund, the proceeds of which are used to retire randomly selected bonds in the issue.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Stock dividends": {
+        "defi": "Companies sometimes pay out dividends in stock. For example, if the company declares a 10% stock dividend that means that the number of shares you own will be increased by 10%. Although you are getting additional shares, you must remember that your total ownership of the company has not increased. The proportionate ownership of all shareholders has been increased equally by 10 percent. Another point to keep in mind is that unlike cash dividends, stock dividends are not necessarily taxed in the same way as cash dividends.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/stocks.html",
+            "term": "Stocks"
+        }
+    },
+    "Stock split": {
+        "defi": "Companies frequently increase or decrease their number of shares outstanding by splitting the stock. An example explains the process best. Say you own 200 shares of ABC Inc., which has 100,000 shares outstanding, trades on the NYSE for $80 per share, and earns $4.00 per share. Then ABC declares a 2 for 1 split. You will now get one additional share of ABC for each share that you already own for a total of 400 shares. At the same time, ABC will now have 200,000 total shares outstanding and all of its applicable ratios will be divided by this higher number. For example, its earnings per share will be $2.00 and its price will be $40.00. In other words, the total pie is the same size, it's merely been divided into smaller pieces.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/stocks.html",
+            "term": "Stocks"
+        }
+    },
+    "Stop loss order": {
+        "defi": "An order to sell a stock when the price falls to a specified level.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/stocks.html",
+            "term": "Stocks"
+        }
+    },
+    "Strip bonds": {
+        "defi": "A bond that has had all its coupons removed, thus creating a series of zero coupon issues, the maturity dates of which are the interest payment dates of the coupon, as well as the originally established maturity date. Generally sold at a discount.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Stripped bonds": {
+        "defi": "A bond that has had all its coupons removed, thus creating a series of zero coupon issues, the maturity dates of which are the interest payment dates of the coupon, as well as the originally established maturity date. Generally sold at a discount.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/gics.html",
+            "term": "GICs"
+        }
+    },
+    "Summary information": {
+        "defi": "Information data set. Contains the CUSIP number, Description, Bid Price, Offer Price, Bid Yield, Offer Yield, Bid Size, Offer Size.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Trade": {
+        "defi": "A trade is a transaction. A trade has a buyer and a seller as well as a price and quantity.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Trade date": {
+        "defi": "The date on which a trade occurs. Trades generally settle (are paid for) 1-3 business days after the trade date. With stocks, settlement is generally 3 business days after the trade date.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/stocks.html",
+            "term": "Stocks"
+        }
+    },
+    "Treasury bill": {
+        "defi": "Discount instruments issued by the federal government at a weekly auction. The T-bills generally have original maturities of 13 weeks (3 months), 26 weeks (6 months) and 52 weeks (1 year).",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Two-sided market": {
+        "defi": "Market in which both a bid and an offered price, good for the standard unit of trading, are quoted.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Two-way market": {
+        "defi": "Market in which both a bid and an offered price are quoted.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Volatility": {
+        "defi": "How much the price of a bond changes for a given movement in yield.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Voting rights": {
+        "defi": "You can vote on company issues such as electing the board of directors and issuing new securities. In most cases, you will receive a ballot form, known as a \"proxy\" that you can mail back to the company.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/stocks.html",
+            "term": "Stocks"
+        }
+    },
+    "Yield": {
+        "defi": "The interest rate expressed as an annual percentage that the funds will earn or cost over the term of the security.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Yield curve": {
+        "defi": "The relationship between the various maturities of same credit quality issues. The curve for Government of Canada bonds sets the base of relationships for the Canadian market. For a description of the various forms of yield curves, please seeDownward yield curve,Flat yield curve,Humped yield curveandPositive yield curve.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Yield to maturity": {
+        "defi": "The rate of return yielded by a debt security held to maturity when both interest payments and the investor's capital gain or loss on the security are taken into account. The return that an investor will receive if an issue is held to its maturity date and all coupons, as they are received, are re-invested at that yield level.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    },
+    "Zero coupon bond": {
+        "defi": "A bond that pays no interest throughout its life. Zero Coupon Bonds (Zeros) sell at a discount to maturity value. The discount represents the return on the original investment, if the bond is held to its maturity date. The bonds are usually created using interest payment dates of a regular issue.",
+        "mention": {
+            "link": "https://www.scotiaitrade.com/en/direct-investing-and-online-trading/investment-types/bonds.html",
+            "term": "Bonds"
+        }
+    }
+}

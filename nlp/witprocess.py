@@ -1,6 +1,11 @@
 # Varghese George 2020
 from wit import Wit
-import secret
+from nlp import secret
+
+# Insert your Wit.AI token here
+# client = Wit(secret.key)
+client = Wit(os.environ['WIT_KEY'])
+
 # Grabs the first occurence of an entity 
 def first_entity(entities, entity):
     newEntity = entity + ':' + entity
@@ -16,20 +21,20 @@ def first_entity(entities, entity):
 
 
 # Break down the entities given the message process
-def recievemessage(message):
+def recievemessage(input):
+    message = client.message(input)
     # Break the object down to the entities in the message
     entities = message['entities']
-    print(message)
     # Grab each entity
-    word = first_entity(entities, 'word')
-
+    output = {}
+    output['word'] = standardize(first_entity(entities, 'word'))
+    output['text'] = message['text']
+    output['intent'] = message['intents'][0]['name']
+    return output
     # Output the labels from the text, in my application I categorize Contact, Name, and Message Subject
     # You will need to train your application on the website to cater to your needs
     # Outputs N/A if missing information
-    print("Word to define: " + word)
+    
+def standardize(toDefine):
+    return toDefine.strip().capitalize()
 
-
-# Insert your Wit.AI token here
-client = Wit(secret.key)
-# Retrieves input, clientmessage() returns JSON, which recievemessage() processes
-recievemessage(client.message(input("Ask your question: ")))
